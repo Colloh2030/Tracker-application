@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          tracker application
+          Mananja Yetu
         </a>
       </header>
     </div>
