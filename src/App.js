@@ -1,6 +1,7 @@
 import logo from './logo.svg';
 import './App.css';
 import './components/Navbar';
+import './components/Footer'
 
 function App() {
   return (
@@ -12,6 +13,7 @@ function App() {
           <h>My Daily Activity Tracking Application</h>
           
         </p>
+        <>Footer</>
         
       </header>
     </div>
