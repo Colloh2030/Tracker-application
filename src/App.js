@@ -8,6 +8,7 @@ function App() {
         <img src={logo} className="App-logo" alt="logo" />
         <p>
           <h>My Daily Activity Tracking Application</h>
+          
         </p>
         
       </header>
